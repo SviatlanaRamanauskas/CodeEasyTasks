@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\bin\Debug\net5.0\SaveTheWorldWithCodeasy.exe
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\bin\Debug\net5.0\SaveTheWorldWithCodeasy.deps.json
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\bin\Debug\net5.0\SaveTheWorldWithCodeasy.runtimeconfig.json
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\bin\Debug\net5.0\SaveTheWorldWithCodeasy.runtimeconfig.dev.json
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\bin\Debug\net5.0\SaveTheWorldWithCodeasy.dll
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\bin\Debug\net5.0\SaveTheWorldWithCodeasy.pdb
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\SaveTheWorldWithCodeasy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\SaveTheWorldWithCodeasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\SaveTheWorldWithCodeasy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\SaveTheWorldWithCodeasy.AssemblyInfo.cs
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\SaveTheWorldWithCodeasy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\SaveTheWorldWithCodeasy.dll
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\refint\SaveTheWorldWithCodeasy.dll
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\SaveTheWorldWithCodeasy.pdb
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\SaveTheWorldWithCodeasy.genruntimeconfig.cache
+C:\Users\User\source\repos\SaveTheWorldWithCodeasy\SaveTheWorldWithCodeasy\obj\Debug\net5.0\ref\SaveTheWorldWithCodeasy.dll
